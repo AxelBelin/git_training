@@ -2,3 +2,5 @@ Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 2ème ligne Alice depuis GitHub
 3ème ligne Alice depuis GitHub
 4ème ligne
+5ème ligne
+6ème ligne Alice
