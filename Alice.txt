@@ -4,3 +4,4 @@ Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 4ème ligne Alice
 5ème ligne Alice
 6ème ligne Alice
+7ème ligne Alice
