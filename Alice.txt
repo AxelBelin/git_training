@@ -1,6 +1,3 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
-<<<<<<< HEAD
-2ème ligne
-=======
 2ème ligne Alice
->>>>>>> change_alice
+3ème ligne Alice
